@@ -1,0 +1,267 @@
+*{
+	margin:0;/*quita el margen*/
+padding: 0;/*quita el espaciado*/
+}
+
+#encabezado{
+	width: 100%;/*anchura*/
+	height: 100px;/*altura*/
+	background-color:#2a36af;/*color de foto*/
+
+
+}
+#encabezadopersonal{
+	width: 100%;/*anchura*/
+	height: 100px;/*altura*/
+	background-color:#003444;/*color de foto*/
+	}
+
+	#encabezadopersonaje{
+	width: 100%;/*anchura*/
+	height: 100px;/*altura*/
+	background-color:#ea21f2;/*color de foto*/
+	}
+
+#encabezadofuturo{
+	width: 100%;/*anchura*/
+	height: 100px;/*altura*/
+	background-color:#028b48;/*color de foto*/
+	}
+#encabezadotutorial{
+	width: 100%;/*anchura*/
+	height: 100px;/*altura*/
+	background-color:#b1d0d3;/*color de foto*/
+	}
+
+	
+
+.centrado{
+	width: 70%;
+	height: 100px;
+	margin: 0 auto;/*sirve para centrar las cajas*/
+	position: relative;
+
+}
+.espacioArriba{
+	margin-top: 70px;
+	float: right;
+}
+.espacioArribaa{
+	margin-top: 40px;
+	float: right;
+}
+.minombre{
+	width: 280px;
+	height: 100px;
+	float: right;
+
+}
+.calida{
+	width: 220px;
+	height: 380px;
+}
+
+
+.calidad{
+	width: 280px;
+	height: 380px;
+}
+.calidadd{
+	width: 320px;
+	height: 380px;
+}
+.calidaddd{
+	width: 320px;
+	height: 200px;
+}
+.calidadr{
+	width: 300px;
+	height: 200px;
+}
+
+
+
+
+
+.alinearDerecha{
+	list-style-type: none;/*quita los puntos de las listas*/
+	position: absolute;
+	top:0; /*cordenada*/
+	left: 0; /*cordenada*/
+
+}
+	
+
+
+.opcion{
+	float: right;/* floten hacia la derecha*/
+	width: 100px;/*ancho*/
+	color: #95c6e0;/*color de fuente*/
+	border-right: solid 2px #fff;/* borde lado izquierdo linea continua 2px de grosor y letra color blanca*/
+	padding: 40px 25px;
+}
+.opciones{
+	float: right;/* floten hacia la derecha*/
+	width: 100px;/*ancho*/
+	color: #f20001;/*color de fuente*/
+	border-right: solid 2px #fff;/* borde lado izquierdo linea continua 2px de grosor y letra color blanca*/
+	padding: 40px 25px;
+}
+
+.opcionese{
+	float: right;/* floten hacia la derecha*/
+	width: 100px;/*ancho*/
+	color: #00ff00;/*color de fuente*/
+	border-right: solid 2px #fff;/* borde lado izquierdo linea continua 2px de grosor y letra color blanca*/
+	padding: 40px 25px;
+}
+
+.opcioneses{
+	float: right;/* floten hacia la derecha*/
+	width: 100px;/*ancho*/
+	color: #270b22;/*color de fuente*/
+	border-right: solid 2px #fff;/* borde lado izquierdo linea continua 2px de grosor y letra color blanca*/
+	padding: 40px 25px;
+}
+
+
+#marcoazul{
+	width: 100%;/*anchura*/
+	overflow: hidden;/*altura*/
+	background-color:#68a9d7;/*color de foto*/
+
+
+}
+#marcorojo{
+	width: 100%;/*anchura*/
+	overflow: hidden;/*altura*/
+	background-color:#e82424;/*color de foto*/
+	}
+
+#marcoverde{
+	width: 100%;/*anchura*/
+	overflow: hidden;/*altura*/
+	background-color:#00ff00;/*color de foto*/
+	}
+
+#marcoverdes{
+	width: 100%;/*anchura*/
+	overflow: hidden;/*altura*/
+	background-color:#1e0c32;/*color de foto*/
+	}
+#marcotuto{
+	width: 100%;/*anchura*/
+	overflow: hidden;/*altura*/
+	background-color:#bf8496;/*color de foto*/
+	}
+
+	
+
+
+.tituloprincipal{
+	color: #fff;
+	padding-top: 40px;
+	text-align: center;
+
+}
+.panelizquierdo{
+
+	width: 60%;
+	float: left;
+}
+.subtema{
+	text-align: center;
+	color: #fff;
+
+
+}
+
+.subtemas{
+	text-align: align=justify;
+	color: #ffd9bb;
+
+
+}
+
+.panelderecho{
+	width: 40%;
+	float: right;
+	text-align: center;
+}
+.boton{
+	text-decoration: none; /*quitar subrayado*/
+	color:#fff; /*color de la letra*/
+	background-color: #3b2246; /*color de fondo*/
+	padding: 30px 65px;/*el espacio del contenido con el borde*/
+	display: block;/*convertir a caja*/
+	margin: 20px auto; 
+	width:50%; 
+	font-size: 20px;/*tamaño de letra*/
+	text-align: center;/*centrar texto en el espacio*/
+	border-radius: 15px;
+}
+.botonn{
+	text-decoration: none; /*quitar subrayado*/
+	color:#fff; /*color de la letra*/
+	background-color: #003444; /*color de fondo*/
+	padding: 30px 65px;/*el espacio del contenido con el borde*/
+	display: block;/*convertir a caja*/
+	margin: 20px auto; 
+	width:50%; 
+	font-size: 20px;/*tamaño de letra*/
+	text-align: center;/*centrar texto en el espacio*/
+	border-radius: 15px;
+}
+
+#franjaverde{
+	width: 100%;/*anchura*/
+	overflow: hidden; /*altura*/
+	background-color:#1b1838;/*color de foto*/
+	height: 900px;/*altura*/
+
+}
+
+#franjafinal{
+	width: 100%;/*anchura*/
+	overflow: hidden; /*altura*/
+	background-color:#012e01;/*color de foto*/
+	height: 1200px;/*altura*/
+
+}
+
+#franjameliodas{
+	width: 100%;/*anchura*/
+	overflow: hidden; /*altura*/
+	background-color:#1e0025;/*color de foto*/
+	height: 1200px;/*altura*/
+
+}
+#franjatuto{
+	width: 100%;/*anchura*/
+	overflow: hidden; /*altura*/
+	background-color:#f7ae9d;/*color de foto*/
+	height: 1200px;/*altura*/
+
+}
+
+
+
+#franjanegra{
+	width: 100%;/*anchura*/
+	overflow: hidden; /*altura*/
+	background-color:#000000;/*color de foto*/
+	height: 1200px;/*altura*/
+
+}
+
+#botonverde{
+	text-align: center;
+	color:#fff;
+	font-size: 50px;
+	border-bottom: #fff solid 4px;
+	padding-bottom: 20px;
+
+}
+
+
+
